@@ -1,0 +1,3 @@
+https://www.offensive-security.com/pwk-online/PWKv1-REPORT.doc
+https://www.sans.org/information-security-policy/
+https://github.com/hmaverickadams/TCM-Security-Sample-Pentest-Report
