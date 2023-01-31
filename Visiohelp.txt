@@ -9,7 +9,7 @@
 2. Ribbon > Developer > Drawing Explorer 
 3. Drawing > Line Pattern Right Click > Name.
 4. Select the name > Right click > Edit pattern Shape. 
-5. Design change page size.
+5. Design change page size and change orientation to landscape.
 6. Fill the rectangle with solid wire color.
 7. Use other rectangles for swirling color. 
 8. Close window and it will ask you to update pattern. 
