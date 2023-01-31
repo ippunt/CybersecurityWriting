@@ -1,0 +1,22 @@
+1. Getting nice dashed lines the color you want:
+
+
+
+
+
+1.
+1. File > Options > Advanced > General > Run in developer mode. 
+2. Ribbon > Developer > Drawing Explorer 
+3. Drawing > Line Pattern Right Click > Name.
+4. Select the name > Right click > Edit pattern Shape. 
+5. Design change page size.
+6. Fill the rectangle with solid wire color.
+7. Use other rectangles for swirling color. 
+8. Close window and it will ask you to update pattern. 
+9. You may have to play with transparency. 
+
+Use it:
+1. Draw a line.
+2. RIght click on line, Format.
+3. Click the Dash Type, 
+https://onedrive.live.com/?authkey=%21AOWaTqniHjL6OvA&cid=C8D7257E850E17D9&id=C8D7257E850E17D9%21953&parId=C8D7257E850E17D9%21107&o=OneUp
